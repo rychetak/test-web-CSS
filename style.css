@@ -63,10 +63,9 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  flex: 30%;
+  flex: 50%;
   background-color: #000000; color: white;
   padding: 50px;
-  border: 50px;
 } /*z ukolu 2 jsme zmenili barvu pozadi a pomoci commandu "color" jsme zmenili pouze barvu textu*/
 
 /* Main column */
