@@ -31,7 +31,7 @@ body {
 
 /* Style the navigation bar links */
 .navbar a {
-  float: left;
+  float: right;
   display: block;
   color: white;
   text-align: center;
