@@ -65,7 +65,7 @@ body {
 .side {
   flex: 30%;
   background-color: #000000; color: white;
-  padding: 40px;
+  padding: 50px;
 } /*z ukolu 2 jsme zmenili barvu pozadi a pomoci commandu "color" jsme zmenili pouze barvu textu*/
 
 /* Main column */
