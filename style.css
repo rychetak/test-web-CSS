@@ -64,9 +64,9 @@ body {
 /* Sidebar/left column */
 .side {
   flex: 30%;
-  background-color: #f1f1f1;
+  background-color: #000000; color: white;
   padding: 20px;
-}
+} /*z ukolu 2 jsme zmenili barvu pozadi a pomoci commandu "color" jsme zmenili pouze barvu textu*/
 
 /* Main column */
 .main {   
