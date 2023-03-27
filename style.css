@@ -14,7 +14,7 @@ body {
   text-align: center;
   background-image: url("images/landscape-test-css.jpg");
 }
-
+/* zmenili jsme obrazek pomoci relative path, musime si dat pozor na lomitok*/
 /* Increase the font size of the heading */
 .header h1 {
   font-size: 50px;
