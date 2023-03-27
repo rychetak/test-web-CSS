@@ -51,8 +51,8 @@ body {
 
 /* Active/current link */
 .navbar a.active {
-  background-color: #666;
-  color: white;
+  background-color: aqua;
+  color: black;
 }
 
 /* Column container */
