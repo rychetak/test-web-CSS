@@ -10,11 +10,11 @@ body {
 
 /* Header/logo Title */
 .header {
-  padding: 90px;
+  padding: 90px; 
   text-align: left;
   background-image: url("images/landscape-test-css.jpg");
 
-}
+}/*padding ti zmeni vnitrni cast mezi obrazkem a hranou*/
 /* zmenili jsme obrazek pomoci relative path, musime si dat pozor na lomitok*/
 /* Increase the font size of the heading */
 .header h1 {
