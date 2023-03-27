@@ -47,7 +47,7 @@ body {
 .navbar a:hover {
   background-color: purple;
   color: black;
-}
+} /* hoover dela to, ze kdyz na to najedu, tak se zmeni barva*/
 
 /* Active/current link */
 .navbar a.active {
